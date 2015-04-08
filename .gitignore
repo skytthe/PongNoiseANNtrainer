@@ -1,0 +1,39 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+
+# Icon must ends with two \r.
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+*~
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+dist/
+build/
+
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
+
+nbproject
+build.xml
+manifest.mf
